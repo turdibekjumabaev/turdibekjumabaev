@@ -8,6 +8,11 @@ You can follow me, contact me, see what I do, or use my open source code:
 - Dev:          [turdibekjumabaev](https://dev.to/turdibekjumabaev)
 - Medium:       [turdibekjumabaev](https://medium.com/@turdibekjumabaev)
 
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turdibekjumabaev&theme=tokyonight_duo&hide_border=true" />
+</div>
+
+
 <a href="https://github.com/turdibekjumabaev">
 <p align="left">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turdibekjumabaev&theme=github_dark">
@@ -16,6 +21,3 @@ You can follow me, contact me, see what I do, or use my open source code:
     </p>
 </a> 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turdibekjumabaev&theme=tokyonight_duo&hide_border=true" />
-</div>
