@@ -5,7 +5,7 @@ You can follow me, contact me, see what I do, or use my open source code:
 
 - GitHub: [turdibekjumabaev](https://github.com/turdibekjumabaev)
 - Telegram: [developerturdibek](https://t.me/developerturdibek)
-- Dev: [anorprogrammer](https://dev.to/turdibekjumabaev)
+- Dev: [developerturdibek](https://dev.to/turdibekjumabaev)
 
 <a href="https://github.com/turdibekjumabaev">
 <p align="left">
