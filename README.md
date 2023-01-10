@@ -1,5 +1,5 @@
 # About me
-Hey! 👋 I'm Shahobiddin Anorboyev (anorprogrammer).
+Hey! 👋 I'm Turdıbek Jumabaev (turdibekjumabaev).
 
 You can follow me, contact me, see what I do, or use my open source code:
 
