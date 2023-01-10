@@ -3,9 +3,9 @@ Hey! 👋 I'm Turdıbek Jumabaev (turdibekjumabaev).
 
 You can follow me, contact me, see what I do, or use my open source code:
 
-- GitHub: [turdibekjumabaev](https://github.com/turdibekjumabaev)
-- Telegram: [developerturdibek](https://t.me/developerturdibek)
-- Dev: [turdibekjumabaev](https://dev.to/turdibekjumabaev)
+- GitHub:       [turdibekjumabaev](https://github.com/turdibekjumabaev)
+- Telegram:     [developerturdibek](https://t.me/developerturdibek)
+- Dev:          [turdibekjumabaev](https://dev.to/turdibekjumabaev)
 
 <a href="https://github.com/turdibekjumabaev">
 <p align="left">
