@@ -6,6 +6,7 @@ You can follow me, contact me, see what I do, or use my open source code:
 - GitHub:       [turdibekjumabaev](https://github.com/turdibekjumabaev)
 - Telegram:     [developerturdibek](https://t.me/developerturdibek)
 - Dev:          [turdibekjumabaev](https://dev.to/turdibekjumabaev)
+- Medium:       [turdibekjumabaev](https://medium.com/@turdibekjumabaev)
 
 <a href="https://github.com/turdibekjumabaev">
 <p align="left">
