@@ -9,7 +9,7 @@ You can follow me, contact me, see what I do, or use my open source code:
 - Medium:       [turdibekjumabaev](https://medium.com/@turdibekjumabaev)
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turdibekjumabaev&theme=tokyonight_duo&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=turdibekjumabaev&theme=ayu-mirage&hide_border=true" />
 </div>
 
 
