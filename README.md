@@ -3,10 +3,10 @@ Hey! 👋 I'm Turdıbek Jumabaev (turdibekjumabaev).
 
 You can follow me, contact me, see what I do, or use my open source code:
 
-- GitHub:       [turdibekjumabaev](https://github.com/turdibekjumabaev)
-- Telegram:     [developerturdibek](https://t.me/developerturdibek)
 - Dev:          [turdibekjumabaev](https://dev.to/turdibekjumabaev)
+- GitHub:       [turdibekjumabaev](https://github.com/turdibekjumabaev)
 - Medium:       [turdibekjumabaev](https://medium.com/@turdibekjumabaev)
+- Telegram:     [developerturdibek](https://t.me/developerturdibek)
 - Robocontest:   [developerturibek](https://robocontest.uz/profile/developerturdibek)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,linux,git,github,vscode)](https://skillicons.dev)
