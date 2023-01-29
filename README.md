@@ -7,7 +7,7 @@ You can follow me, contact me, see what I do, or use my open source code:
 - Telegram:     [developerturdibek](https://t.me/developerturdibek)
 - Dev:          [turdibekjumabaev](https://dev.to/turdibekjumabaev)
 - Medium:       [turdibekjumabaev](https://medium.com/@turdibekjumabaev)
-- Robocontest   [developerturibek](https://robocontest.uz/profile/developerturdibek)
+- Robocontest:   [developerturibek](https://robocontest.uz/profile/developerturdibek)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,js,linux,git,github,vscode)](https://skillicons.dev)
 
