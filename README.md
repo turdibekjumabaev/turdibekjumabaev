@@ -1,21 +1,19 @@
 # About me
-Hey! 👋 I'm Turdıbek Jumabaev (turdibekjumabaev).
+<p>Hey! 👋 I'm Turdıbek Jumabaev (turdibekjumabaev).</p>
 
-You can follow me, contact me, see what I do, or use my open source code:
+<p>You can follow me, contact me, see what I do, or use my open source code:</p>
 
-- Dev:          [turdibekjumabaev](https://dev.to/turdibekjumabaev)
-- GitHub:       [turdibekjumabaev](https://github.com/turdibekjumabaev)
-- Medium:       [turdibekjumabaev](https://medium.com/@turdibekjumabaev)
-- Telegram:     [developerturdibek](https://t.me/developerturdibek)
-- Robocontest:   [developerturibek](https://robocontest.uz/profile/developerturdibek)
+- Dev:                                [turdibekjumabaev](https://dev.to/turdibekjumabaev)
+- GitHub:                             [turdibekjumabaev](https://github.com/turdibekjumabaev)
+- Medium:                             [turdibekjumabaev](https://medium.com/@turdibekjumabaev)
+- Leetcode:                           [turdibekjumabaev](https://leetcode.com/turdibekjumabaev/)
+- Telegram:                           [turdibekjumabaev](https://t.me/turdibekjumabaev)
+- Robocontest:                        [developerturibek](https://robocontest.uz/profile/developerturdibek)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,linux,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,linux,git,github,vscode)](https://skillicons.dev)
 
 <details>
   <summary><b><h2>Github Stats ⚡ <h2></b></summary>
-  <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=turdibekjumabaev&theme=ayu-mirage&hide_border=true" />
-  </div>
   <a href="https://github.com/turdibekjumabaev">
     <p align="left">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=turdibekjumabaev&theme=github_dark">
