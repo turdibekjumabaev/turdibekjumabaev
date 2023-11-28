@@ -1,5 +1,5 @@
 # About me
-<p>Hey! 👋 I'm Turdıbek Jumabaev (turdibekjumabaev).</p>
+### Hey! I'm Turdıbek Jumabaev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 <p>You can follow me, contact me, see what I do, or use my open source code:</p>
 
